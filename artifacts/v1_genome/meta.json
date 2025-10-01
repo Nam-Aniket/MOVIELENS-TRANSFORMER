@@ -1,0 +1,8 @@
+{
+  "source": "genome_glmer",
+  "matrix_dtype": "float32",
+  "n_movies": 9734,
+  "n_tags": 1094,
+  "nnz": 10551655,
+  "density": 0.9908591382699364
+}
